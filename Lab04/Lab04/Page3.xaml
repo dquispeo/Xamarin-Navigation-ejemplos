@@ -5,12 +5,9 @@
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
              mc:Ignorable="d"
              x:Class="Lab04.Page3">
-    <ContentPage.Content>
-        <StackLayout>
-            <Label Text="Popup!"
-                VerticalOptions="CenterAndExpand" 
-                HorizontalOptions="CenterAndExpand" />
-            <Button Text="Ventana Popup" Clicked="OnItemSelected"/>
-        </StackLayout>
-    </ContentPage.Content>
+    <Button
+        Text="Abrir modal" 
+        VerticalOptions="Center" 
+        HorizontalOptions="Center"
+        Clicked="onclicked"/>
 </ContentPage>

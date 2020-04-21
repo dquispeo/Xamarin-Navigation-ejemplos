@@ -6,10 +6,18 @@
              mc:Ignorable="d"
              x:Class="Lab04.Page4">
     <ContentPage.Content>
-        <StackLayout>
-            <Label Text="Welcome to Xamarin.Forms!"
+        <StackLayout Margin="30, 50, 30, 50" BackgroundColor="Red">
+            <Label 
+                Text="Esto es un modal"
+                TextColor="White"
+                FontAttributes="Bold"
+                FontSize="Large"
                 VerticalOptions="CenterAndExpand" 
-                HorizontalOptions="CenterAndExpand" />
+                HorizontalOptions="CenterAndExpand"/>
+            <Button 
+                x:Name="dismissButton" 
+                Text="Cerrar modal"
+                Clicked="OnDismissButtonClicked"/>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

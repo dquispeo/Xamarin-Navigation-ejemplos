@@ -16,7 +16,7 @@ namespace Lab04
         {
             InitializeComponent();
         }
-        async void OnItemSelected(object sender, SelectedItemChangedEventArgs e)
+        async void onclicked(object sender, EventArgs e)
         {
             var detailPage = new Page4();
             await Navigation.PushModalAsync(detailPage);

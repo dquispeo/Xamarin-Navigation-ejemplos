@@ -16,5 +16,9 @@ namespace Lab04
         {
             InitializeComponent();
         }
+        async void OnDismissButtonClicked(object sender, EventArgs args)
+        {
+            await Navigation.PopModalAsync();
+        }
     }
 }
