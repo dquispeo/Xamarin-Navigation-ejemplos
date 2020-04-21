@@ -18,3 +18,6 @@ E:\ProjectVisualStudio\Lab04\Lab04\Lab04\obj\Debug\netstandard2.0\TabbedPage1.xa
 E:\ProjectVisualStudio\Lab04\Lab04\Lab04\obj\Debug\netstandard2.0\CarouselPage1.xaml.g.cs
 E:\ProjectVisualStudio\Lab04\Lab04\Lab04\obj\Debug\netstandard2.0\Page3.xaml.g.cs
 E:\ProjectVisualStudio\Lab04\Lab04\Lab04\obj\Debug\netstandard2.0\Page4.xaml.g.cs
+E:\ProjectVisualStudio\Lab04\Lab04\Lab04\obj\Debug\netstandard2.0\MasterDetailPage1.xaml.g.cs
+E:\ProjectVisualStudio\Lab04\Lab04\Lab04\obj\Debug\netstandard2.0\MasterDetailPage1Detail.xaml.g.cs
+E:\ProjectVisualStudio\Lab04\Lab04\Lab04\obj\Debug\netstandard2.0\MasterDetailPage1Master.xaml.g.cs

@@ -14,7 +14,8 @@ namespace Lab04
             //MainPage = new NavigationPage(new Page1Xaml());
             //MainPage = new NavigationPage(new TabbedPage1());
             //MainPage = new NavigationPage(new CarouselPage1());
-            MainPage = new NavigationPage(new Page3());
+            //MainPage = new NavigationPage(new Page3());
+            MainPage = new NavigationPage(new MasterDetailPage1());
         }
 
         protected override void OnStart()
